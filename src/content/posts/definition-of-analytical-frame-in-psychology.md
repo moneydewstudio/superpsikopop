@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Analytical Frame in Psychology"
-Description: "Get to know the definition of analytical frame according to psychologists."
-Date: 2022-11-06T06:00:00+00:124
-Image: "/images/posts/definition-of-analytical-frame-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Analytical Frame in Psychology"
+description: "Get to know the definition of analytical frame according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-analytical-frame-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

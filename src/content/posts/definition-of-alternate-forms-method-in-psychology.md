@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Alternate Forms Method in Psychology"
-Description: "Get to know the definition of alternate forms method according to psychologists."
-Date: 2023-07-02T06:00:00+00:99
-Image: "/images/posts/definition-of-alternate-forms-method-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Alternate Forms Method in Psychology"
+description: "Get to know the definition of alternate forms method according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-alternate-forms-method-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

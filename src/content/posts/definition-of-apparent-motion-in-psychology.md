@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Apparent Motion in Psychology"
-Description: "Get to know the definition of apparent motion according to psychologists."
-Date: 2023-07-17T06:00:00+00:180
-Image: "/images/posts/definition-of-apparent-motion-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Apparent Motion in Psychology"
+description: "Get to know the definition of apparent motion according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-apparent-motion-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

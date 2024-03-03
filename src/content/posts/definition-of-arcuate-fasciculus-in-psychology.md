@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Arcuate Fasciculus in Psychology"
-Description: "Get to know the definition of arcuate fasciculus according to psychologists."
-Date: 2023-04-01T06:00:00+00:193
-Image: "/images/posts/definition-of-arcuate-fasciculus-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Arcuate Fasciculus in Psychology"
+description: "Get to know the definition of arcuate fasciculus according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-arcuate-fasciculus-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

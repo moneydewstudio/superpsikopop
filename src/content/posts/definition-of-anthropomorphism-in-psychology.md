@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Anthropomorphism in Psychology"
-Description: "Get to know the definition of anthropomorphism according to psychologists."
-Date: 2023-07-18T06:00:00+00:163
-Image: "/images/posts/definition-of-anthropomorphism-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Anthropomorphism in Psychology"
+description: "Get to know the definition of anthropomorphism according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-anthropomorphism-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

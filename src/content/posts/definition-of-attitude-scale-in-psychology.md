@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Attitude Scale in Psychology"
-Description: "Get to know the definition of attitude scale according to psychologists."
-Date: 2022-10-18T06:00:00+00:225
-Image: "/images/posts/definition-of-attitude-scale-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Attitude Scale in Psychology"
+description: "Get to know the definition of attitude scale according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-attitude-scale-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

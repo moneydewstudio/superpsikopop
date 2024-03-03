@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Affect Display in Psychology"
-Description: "Get to know the definition of affect display according to psychologists."
-Date: 2022-09-12T06:00:00+00:53
-Image: "/images/posts/definition-of-affect-display-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Affect Display in Psychology"
+description: "Get to know the definition of affect display according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-affect-display-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

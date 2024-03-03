@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Aphasia in Psychology"
-Description: "Get to know the definition of aphasia according to psychologists."
-Date: 2022-10-09T06:00:00+00:178
-Image: "/images/posts/definition-of-aphasia-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Aphasia in Psychology"
+description: "Get to know the definition of aphasia according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-aphasia-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

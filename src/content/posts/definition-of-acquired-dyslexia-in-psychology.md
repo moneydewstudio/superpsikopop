@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Acquired Dyslexia in Psychology"
-Description: "Get to know the definition of acquired dyslexia according to psychologists."
-Date: 2023-01-04T06:00:00+00:25
-Image: "/images/posts/definition-of-acquired-dyslexia-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Acquired Dyslexia in Psychology"
+description: "Get to know the definition of acquired dyslexia according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-acquired-dyslexia-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

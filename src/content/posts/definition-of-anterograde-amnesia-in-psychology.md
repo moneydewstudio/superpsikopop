@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Anterograde Amnesia in Psychology"
-Description: "Get to know the definition of anterograde amnesia according to psychologists."
-Date: 2023-01-06T06:00:00+00:160
-Image: "/images/posts/definition-of-anterograde-amnesia-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Anterograde Amnesia in Psychology"
+description: "Get to know the definition of anterograde amnesia according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-anterograde-amnesia-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Ames Room in Psychology"
-Description: "Get to know the definition of ames room according to psychologists."
-Date: 2023-06-09T06:00:00+00:108
-Image: "/images/posts/definition-of-ames-room-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Ames Room in Psychology"
+description: "Get to know the definition of ames room according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-ames-room-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

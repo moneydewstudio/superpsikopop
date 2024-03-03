@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Acth in Psychology"
-Description: "Get to know the definition of acth according to psychologists."
-Date: 2022-10-10T06:00:00+00:28
-Image: "/images/posts/definition-of-acth-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Acth in Psychology"
+description: "Get to know the definition of acth according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-acth-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

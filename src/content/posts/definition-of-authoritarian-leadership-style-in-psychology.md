@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Authoritarian Leadership Style in Psychology"
-Description: "Get to know the definition of authoritarian leadership style according to psychologists."
-Date: 2023-03-23T06:00:00+00:235
-Image: "/images/posts/definition-of-authoritarian-leadership-style-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Authoritarian Leadership Style in Psychology"
+description: "Get to know the definition of authoritarian leadership style according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-authoritarian-leadership-style-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

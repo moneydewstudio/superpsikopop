@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Action Disorganisation Syndrome in Psychology"
-Description: "Get to know the definition of action disorganisation syndrome according to psychologists."
-Date: 2023-06-12T06:00:00+00:30
-Image: "/images/posts/definition-of-action-disorganisation-syndrome-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Action Disorganisation Syndrome in Psychology"
+description: "Get to know the definition of action disorganisation syndrome according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-action-disorganisation-syndrome-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

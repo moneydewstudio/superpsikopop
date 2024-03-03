@@ -1,16 +1,13 @@
 ---
-Title: "Definition of Applied Psychology" in Psychology"
-Description: "Get to know the definition of applied psychology according to psychologists."
-Date: 2022-10-19T06:00:00+00:185
-Image: "/images/posts/definition-of-applied-psychology-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Applied Psychology in Psychology"
+description: "Get to know the definition of applied psychology according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-applied-psychology-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags:
+Categories: ["Glossary"]
 ---
-
-
-
 
 > A general term used to classify areas of psychology in which theories are put to use in dealing with practical, non-laboratory situations. Applied psychology traditionally includes clinical psychology, educational psychology, industrial psychology and occupational psychology, but also includes other fields where psychological theories may be put to use, such as environmental psychology or study skills.
 
@@ -20,7 +17,7 @@ applied psychology is A general term used to classify areas of psychology in whi
 
 Applied psychology is a way of using psychology in real-life situations, like helping people with their problems or improving how things work in different jobs. It includes different areas like helping people with mental health issues, helping students learn better, helping workers in companies be happier and more productive, and even studying how the environment affects our behavior. It's like taking what we learn about how people think and feel in psychology and using it to make people's lives better in the real world.
 
- 
+
 
 ## What are the example case of applied psychology?
 
@@ -44,7 +41,7 @@ Applied psychology is a way of using psychology in real-life situations, like he
 
 10\. "The Role of Psychology in Sports Performance and Athlete Well-being" by Hardy, Jones, and Gould (1996): This study examines the psychological factors that contribute to sports performance, including motivation, self-confidence, goal setting, and mental imagery, with a focus on enhancing athlete well-being and achieving peak performance.
 
- 
+
 
 ## What are other terms related to applied psychology?
 
@@ -68,7 +65,7 @@ Applied psychology is a way of using psychology in real-life situations, like he
 
 10\. Community psychology: This discipline emphasizes a holistic approach to understanding and promoting psychological well-being within communities. Community psychologists work to address social issues, promote social justice, and improve the overall health and well-being of communities.
 
- 
+
 
 ## References for applied psychology
 

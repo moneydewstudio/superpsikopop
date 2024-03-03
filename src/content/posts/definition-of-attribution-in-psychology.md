@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Attribution in Psychology"
-Description: "Get to know the definition of attribution according to psychologists."
-Date: 2023-04-29T06:00:00+00:226
-Image: "/images/posts/definition-of-attribution-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Attribution in Psychology"
+description: "Get to know the definition of attribution according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-attribution-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

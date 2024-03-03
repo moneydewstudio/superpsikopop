@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Autogenic in Psychology"
-Description: "Get to know the definition of autogenic according to psychologists."
-Date: 2023-07-20T06:00:00+00:245
-Image: "/images/posts/definition-of-autogenic-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Autogenic in Psychology"
+description: "Get to know the definition of autogenic according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-autogenic-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Agreeableness in Psychology"
-Description: "Get to know the definition of agreeableness according to psychologists."
-Date: 2022-09-09T06:00:00+00:74
-Image: "/images/posts/definition-of-agreeableness-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Agreeableness in Psychology"
+description: "Get to know the definition of agreeableness according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-agreeableness-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

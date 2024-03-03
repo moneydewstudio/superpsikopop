@@ -1,6 +1,6 @@
 ---
-title: "Definition of approachavoidance conflict in Psychology"
-date: "2023-06-06"
+title: "Definition of approach-avoidance conflict in Psychology"
+date: 2023-03-07T06:00:00+00:00
 ---
 
 > A pattern of behaviour often seen when an organism is inclined or required to approach something that has simultaneously attractive and aversive qualities (e.g. a parachute jump). The individual tends to oscillate between approach behaviour and avoidance behaviour, with approach behaviour typically dominant when the event or stimulus is more distant in time or space, and avoidance becoming more characteristic when the event or stimulus is closer. See also conflict.
@@ -11,7 +11,7 @@ approachavoidance conflict is A pattern of behaviour often seen when an organi
 
 Sometimes, when a living thing wants or needs to go near something that is both good and bad at the same time (like jumping out of a plane with a parachute), it can show a pattern of behavior. This means that it keeps going back and forth between trying to get closer to the thing and trying to stay away from it. Usually, when the thing is far away, the living thing wants to go closer, but as it gets closer, it starts to want to stay away more. This is called a conflict.
 
- 
+
 
 ## What are the example case of approachavoidance conflict?
 
@@ -29,21 +29,21 @@ Sometimes, when a living thing wants or needs to go near something that is both 
 
 These research articles and book chapters provide insights into the nature of approach-avoidance conflicts, their role in motivation and behavior, and how they can relate to other psychological phenomena.
 
- 
+
 
 ## What are other terms related to approachavoidance conflict?
 
-1) Approach-approach conflict: This occurs when an individual is torn between two or more desirable options or goals. They must decide which one to pursue and may experience difficulty in making a choice.
+1. Approach-approach conflict: This occurs when an individual is torn between two or more desirable options or goals. They must decide which one to pursue and may experience difficulty in making a choice.
 
-2) Avoidance-avoidance conflict: In contrast to approach-approach conflict, avoidance-avoidance conflict arises when an individual must choose between two or more undesirable options or goals. This can create feelings of stress and discomfort as they struggle to select the least unpleasant option.
+2. Avoidance-avoidance conflict: In contrast to approach-approach conflict, avoidance-avoidance conflict arises when an individual must choose between two or more undesirable options or goals. This can create feelings of stress and discomfort as they struggle to select the least unpleasant option.
 
-3) Approach-withdrawal conflict: This conflict involves a situation where there are both desirable and undesirable aspects or consequences associated with a particular option or goal. The individual may feel attracted to the positive aspects but also hesitant or fearful due to the negative aspects, resulting in ambivalence.
+3. Approach-withdrawal conflict: This conflict involves a situation where there are both desirable and undesirable aspects or consequences associated with a particular option or goal. The individual may feel attracted to the positive aspects but also hesitant or fearful due to the negative aspects, resulting in ambivalence.
 
-4) Double approach-avoidance conflict: This type of conflict emerges when there are multiple options or goals, each containing both desirable and undesirable elements. The individual may feel torn as they weigh the positive and negative aspects of each option and struggle to make a decision.
+4. Double approach-avoidance conflict: This type of conflict emerges when there are multiple options or goals, each containing both desirable and undesirable elements. The individual may feel torn as they weigh the positive and negative aspects of each option and struggle to make a decision.
 
-5) Multiple approach-avoidance conflict: This conflict occurs in situations where there are several different options or goals, each involving both positive and negative aspects. The individual may find it challenging to prioritize or rank these options, leading to indecisiveness and inner turmoil.
+5. Multiple approach-avoidance conflict: This conflict occurs in situations where there are several different options or goals, each involving both positive and negative aspects. The individual may find it challenging to prioritize or rank these options, leading to indecisiveness and inner turmoil.
 
- 
+
 
 ## References for approachavoidance conflict
 

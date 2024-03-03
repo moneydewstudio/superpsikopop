@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Anterior intraparietal Area Aip in Psychology"
-Description: "Get to know the definition of anterior intraparietal area aip according to psychologists."
-Date: 2023-02-04T06:00:00+00:158
-Image: "/images/posts/definition-of-anterior-intraparietal-area-aip-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Anterior intraparietal Area Aip in Psychology"
+description: "Get to know the definition of anterior intraparietal area aip according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-anterior-intraparietal-area-aip-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

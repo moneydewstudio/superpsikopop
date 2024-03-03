@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Babinski Reflex in Psychology"
-Description: "Get to know the definition of babinski reflex according to psychologists."
-Date: 2023-08-10T06:00:00+00:273
-Image: "/images/posts/definition-of-babinski-reflex-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Babinski Reflex in Psychology"
+description: "Get to know the definition of babinski reflex according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-babinski-reflex-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

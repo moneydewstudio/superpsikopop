@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Absolute Refractory Period Absolute Threshold in Psychology"
-Description: "Get to know the definition of absolute refractory period absolute threshold according to psychologists."
-Date: 2023-05-07T06:00:00+00:09
-Image: "/images/posts/definition-of-absolute-refractory-period-absolute-threshold-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Absolute Refractory Period Absolute Threshold in Psychology"
+description: "Get to know the definition of absolute refractory period absolute threshold according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-absolute-refractory-period-absolute-threshold-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Astigmatism in Psychology"
-Description: "Get to know the definition of astigmatism according to psychologists."
-Date: 2022-12-23T06:00:00+00:213
-Image: "/images/posts/definition-of-astigmatism-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Astigmatism in Psychology"
+description: "Get to know the definition of astigmatism according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-astigmatism-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

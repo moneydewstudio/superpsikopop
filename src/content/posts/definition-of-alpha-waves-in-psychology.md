@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Alpha Waves in Psychology"
-Description: "Get to know the definition of alpha waves according to psychologists."
-Date: 2022-10-27T06:00:00+00:97
-Image: "/images/posts/definition-of-alpha-waves-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Alpha Waves in Psychology"
+description: "Get to know the definition of alpha waves according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-alpha-waves-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

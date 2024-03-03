@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Alarm Reaction in Psychology"
-Description: "Get to know the definition of alarm reaction according to psychologists."
-Date: 2023-03-25T06:00:00+00:80
-Image: "/images/posts/definition-of-alarm-reaction-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Alarm Reaction in Psychology"
+description: "Get to know the definition of alarm reaction according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-alarm-reaction-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

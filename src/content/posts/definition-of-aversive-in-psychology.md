@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Aversive in Psychology"
-Description: "Get to know the definition of aversive according to psychologists."
-Date: 2023-03-19T06:00:00+00:266
-Image: "/images/posts/definition-of-aversive-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Aversive in Psychology"
+description: "Get to know the definition of aversive according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-aversive-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

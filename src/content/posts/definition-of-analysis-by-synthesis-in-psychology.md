@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Analysis By Synthesis in Psychology"
-Description: "Get to know the definition of analysis by synthesis according to psychologists."
-Date: 2023-07-14T06:00:00+00:122
-Image: "/images/posts/definition-of-analysis-by-synthesis-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Analysis By Synthesis in Psychology"
+description: "Get to know the definition of analysis by synthesis according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-analysis-by-synthesis-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Agonist in Psychology"
-Description: "Get to know the definition of agonist according to psychologists."
-Date: 2023-02-27T06:00:00+00:70
-Image: "/images/posts/definition-of-agonist-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Agonist in Psychology"
+description: "Get to know the definition of agonist according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-agonist-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

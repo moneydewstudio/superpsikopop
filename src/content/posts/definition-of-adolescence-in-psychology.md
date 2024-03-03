@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Adolescence in Psychology"
-Description: "Get to know the definition of adolescence according to psychologists."
-Date: 2023-02-25T06:00:00+00:47
-Image: "/images/posts/definition-of-adolescence-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Adolescence in Psychology"
+description: "Get to know the definition of adolescence according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-adolescence-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

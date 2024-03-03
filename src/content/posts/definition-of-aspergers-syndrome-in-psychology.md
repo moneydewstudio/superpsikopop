@@ -1,6 +1,6 @@
 ---
-title: "Definition of Aspergers syndrome in Psychology"
-date: "2024-01-24"
+title: "Definition of Aspergers syndrome in Psychology"
+date: 2023-03-07T06:00:00+00:00
 ---
 
 > A condition characterised by difficulties in non-verbal communication and social interaction, which are generally accompanied by repetitive patterns of behaviour carried to the extent of actually interfering with, or restricting, the persons everyday living. Aspergers syndrome is considered to be a mild form of autistic spectrum disorder, but it is different from most of the others in that the persons use of language and intellectual abilities are unaffected.
@@ -11,7 +11,7 @@ Aspergers syndrome is A condition characterised by difficulties in non-verbal 
 
 Asperger's syndrome is a condition where a person has trouble with things like understanding facial expressions and body language, and making friends. They may also do the same things over and over again, which can make it hard for them to do regular activities. Asperger's is a type of autism, but unlike other types, it doesn't affect how they speak or how smart they are.
 
- 
+
 
 ## What are the example case of Aspergers syndrome?
 
@@ -25,13 +25,13 @@ Asperger's syndrome is a condition where a person has trouble with things like u
 
 5\. Klin, A., Pauls, D., Schultz, R., & Volkmar, F. (2005). Three Diagnostic Approaches to Asperger Syndrome: Implications for Research. Journal of Autism and Developmental Disorders, 35(2), 221-234. This study compares three different diagnostic approaches to Asperger's syndrome: DSM-IV criteria, Gillberg's criteria, and SZ criteria. They found that the three approaches yielded different diagnostic rates, highlighting the need for consistent diagnostic criteria to enhance research comparability and clinical decision-making.
 
- 
+
 
 ## What are other terms related to Aspergers syndrome?
 
 #ERROR!
 
- 
+
 
 ## References for Aspergers syndrome
 

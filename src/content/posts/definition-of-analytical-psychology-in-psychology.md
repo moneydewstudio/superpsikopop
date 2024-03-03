@@ -1,16 +1,13 @@
 ---
-Title: "Definition of Analytical Psychology" in Psychology"
-Description: "Get to know the definition of analytical psychology according to psychologists."
-Date: 2023-08-25T06:00:00+00:125
-Image: "/images/posts/definition-of-analytical-psychology-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Analytical Psychology in Psychology"
+description: "Get to know the definition of analytical psychology according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-analytical-psychology-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags:
+Categories: ["Glossary"]
 ---
-
-
-
 
 > The system of psychopathology and treatment devised by Carl Jung after his split from the Freudian school. It introduces concepts such as the archetype and the collective unconscious.
 
@@ -26,11 +23,11 @@ Jung also said that deep within our minds, there is something called the "collec
 
 So when someone has a mental illness, Jung believed that it might be because they are not in touch with these archetypes or they are not aware of the knowledge in their collective unconscious. By exploring and understanding these things, people can find ways to heal and improve their mental well-being.
 
- 
+
 
 ## What are the example case of analytical psychology?
 
- 
+
 
 ## What are other terms related to analytical psychology?
 
@@ -46,6 +43,6 @@ Analytical Psychology:
 
 5\. Self: The concept of self in analytical psychology refers to the center or core of an individual's personality. It represents the cohesive and integrated sense of identity and the ultimate goal of individuation. The self encompasses both conscious and unconscious aspects of an individual.
 
- 
+
 
 ## References for analytical psychology

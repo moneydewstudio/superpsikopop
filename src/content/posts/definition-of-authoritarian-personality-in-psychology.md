@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Authoritarian Personality in Psychology"
-Description: "Get to know the definition of authoritarian personality according to psychologists."
-Date: 2023-05-26T06:00:00+00:236
-Image: "/images/posts/definition-of-authoritarian-personality-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Authoritarian Personality in Psychology"
+description: "Get to know the definition of authoritarian personality according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-authoritarian-personality-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

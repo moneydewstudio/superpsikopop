@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Antilocution in Psychology"
-Description: "Get to know the definition of antilocution according to psychologists."
-Date: 2023-07-05T06:00:00+00:169
-Image: "/images/posts/definition-of-antilocution-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Antilocution in Psychology"
+description: "Get to know the definition of antilocution according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-antilocution-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Barbiturate in Psychology"
-Description: "Get to know the definition of barbiturate according to psychologists."
-Date: 2023-07-26T06:00:00+00:284
-Image: "/images/posts/definition-of-barbiturate-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Barbiturate in Psychology"
+description: "Get to know the definition of barbiturate according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-barbiturate-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Abnormal in Psychology"
-Description: "Get to know the definition of abnormal according to psychologists."
-Date: 2023-08-24T06:00:00+00:05
-Image: "/images/posts/definition-of-abnormal-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Abnormal in Psychology"
+description: "Get to know the definition of abnormal according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-abnormal-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

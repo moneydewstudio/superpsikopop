@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Associative Priming in Psychology"
-Description: "Get to know the definition of associative priming according to psychologists."
-Date: 2022-09-22T06:00:00+00:210
-Image: "/images/posts/definition-of-associative-priming-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Associative Priming in Psychology"
+description: "Get to know the definition of associative priming according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-associative-priming-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

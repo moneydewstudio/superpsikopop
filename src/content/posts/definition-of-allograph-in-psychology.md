@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Allograph in Psychology"
-Description: "Get to know the definition of allograph according to psychologists."
-Date: 2023-03-03T06:00:00+00:92
-Image: "/images/posts/definition-of-allograph-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Allograph in Psychology"
+description: "Get to know the definition of allograph according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-allograph-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

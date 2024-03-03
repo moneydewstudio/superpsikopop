@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Asch Effect in Psychology"
-Description: "Get to know the definition of asch effect according to psychologists."
-Date: 2022-09-13T06:00:00+00:202
-Image: "/images/posts/definition-of-asch-effect-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Asch Effect in Psychology"
+description: "Get to know the definition of asch effect according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-asch-effect-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

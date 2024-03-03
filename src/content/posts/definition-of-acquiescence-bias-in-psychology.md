@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Acquiescence Bias in Psychology"
-Description: "Get to know the definition of acquiescence bias according to psychologists."
-Date: 2022-12-08T06:00:00+00:24
-Image: "/images/posts/definition-of-acquiescence-bias-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Acquiescence Bias in Psychology"
+description: "Get to know the definition of acquiescence bias according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-acquiescence-bias-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

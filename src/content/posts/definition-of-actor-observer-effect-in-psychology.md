@@ -1,6 +1,12 @@
 ---
-title: "Definition of actorobserver effect in Psychology"
-date: "2023-08-29"
+title: "Definition of Actor Observer Effect in Psychology"
+description: "Get to know the definition of actor observer effect according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-action-specific-energy-in-psychology.jpg"
+Draft: FALSE
+authors: ["Robi Maulana"]
+Tags:
+Categories: ["Glossary"]
 ---
 
 > A finding in attribution theory that for unwanted events, people tend to make dispositional attributions about other peoples behaviour (e.g. if you drop a vase, I conclude that you are clumsy) while attributing their own behaviour primarily to the effects of external circumstances (if I drop the vase, it must be because it was slippery): a situational attribution. Research has found that depressed people are more likely to make dispositional attributions about bad events that affect them, while people in a good or loving relationship extend their situational explanations to their partners unwanted events.
@@ -13,7 +19,7 @@ Attribution theory is a way to understand why people behave the way they do. One
 
 Researchers have also discovered that when people are feeling depressed, they are more likely to blame themselves for bad things happening to them. On the other hand, when people are in a happy and loving relationship, they tend to think that their partner's mistakes or accidents happened because of the situation, rather than blaming it on their partner's personality.
 
- 
+
 
 ## What are the example case of actorobserver effect?
 
@@ -27,7 +33,7 @@ Lastly, in the third experiment, participants were asked to evaluate the perform
 
 Overall, these experiments conducted by Jones and Nisbett provided strong evidence for the actor-observer effect. They demonstrated that individuals tend to attribute their own behavior to external factors, while attributing others' behavior to internal factors. This research highlighted the role of perspective and situational attribution in shaping our understanding of the causes of behavior.
 
- 
+
 
 ## What are other terms related to actorobserver effect?
 
@@ -41,7 +47,7 @@ Cultural Variations: The actorobserver effect can vary across cultures. Some c
 
 Communication and Understanding: Recognizing the actorobserver effect is important for effective communication and interpersonal understanding. Misattributions of behavior can lead to misunderstandings and conflicts.
 
- 
+
 
 ## References for actorobserver effect
 

@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Antenatal in Psychology"
-Description: "Get to know the definition of antenatal according to psychologists."
-Date: 2023-05-11T06:00:00+00:155
-Image: "/images/posts/definition-of-antenatal-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Antenatal in Psychology"
+description: "Get to know the definition of antenatal according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-antenatal-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

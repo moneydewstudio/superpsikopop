@@ -1,12 +1,12 @@
 ---
-Title: "Definition of Abnormal Psychology in Psychology"
-Description: "Get to know the definition of abnormal psychology according to psychologists."
-Date: 2023-06-25T06:00:00+00:06
-Image: "/images/posts/definition-of-abnormal-psychology-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags:
+title: "Definition of Abnormal Psychology in Psychology"
+description: "Get to know the definition of abnormal psychology according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-abnormal-psychology-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags:
+Categories: ["Glossary"]
 ---
 
 > An old term for the psychology of abnormal behaviour. This term has been largely replaced by clinical psychology when referring to professional practice.
@@ -17,11 +17,7 @@ abnormal psychology is An old term for the psychology of abnormal behaviour. Thi
 
 Abnormal behavior used to be a way to describe how people act and think differently than what is considered normal. It was like a way of understanding why some people might behave in strange or unusual ways. But now, we use the term clinical psychology to talk about the job of helping people with these kinds of behaviors in a more professional way. It's like when you have a problem and you go see a doctor, but instead of your body, they help you with your thoughts and emotions.
 
-
-
 ## What are the example case of abnormal psychology?
-
-
 
 ## What are other terms related to abnormal psychology?
 
@@ -44,8 +40,6 @@ Stigma: Negative attitudes and beliefs that surround mental health issues and co
 Psychotherapy: Therapeutic approaches aimed at treating psychological disorders through verbal communication and interaction.
 
 Pharmacotherapy: The use of medications to treat mental disorders, often in combination with psychotherapy.
-
-
 
 ## References for abnormal psychology
 

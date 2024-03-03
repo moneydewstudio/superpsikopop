@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Accounts in Psychology"
-Description: "Get to know the definition of accounts according to psychologists."
-Date: 2022-10-08T06:00:00+00:16
-Image: "/images/posts/definition-of-accounts-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Accounts in Psychology"
+description: "Get to know the definition of accounts according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-accounts-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

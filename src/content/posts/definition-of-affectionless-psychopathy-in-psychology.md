@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Affectionless Psychopathy in Psychology"
-Description: "Get to know the definition of affectionless psychopathy according to psychologists."
-Date: 2022-10-28T06:00:00+00:56
-Image: "/images/posts/definition-of-affectionless-psychopathy-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Affectionless Psychopathy in Psychology"
+description: "Get to know the definition of affectionless psychopathy according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-affectionless-psychopathy-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

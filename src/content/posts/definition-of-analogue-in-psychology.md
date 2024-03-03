@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Analogue in Psychology"
-Description: "Get to know the definition of analogue according to psychologists."
-Date: 2023-03-25T06:00:00+00:119
-Image: "/images/posts/definition-of-analogue-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Analogue in Psychology"
+description: "Get to know the definition of analogue according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-analogue-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

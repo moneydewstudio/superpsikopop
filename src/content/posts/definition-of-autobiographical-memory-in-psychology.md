@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Autobiographical Memory in Psychology"
-Description: "Get to know the definition of autobiographical memory according to psychologists."
-Date: 2023-03-14T06:00:00+00:242
-Image: "/images/posts/definition-of-autobiographical-memory-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Autobiographical Memory in Psychology"
+description: "Get to know the definition of autobiographical memory according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-autobiographical-memory-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

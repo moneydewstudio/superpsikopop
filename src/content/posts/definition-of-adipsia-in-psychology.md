@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Adipsia in Psychology"
-Description: "Get to know the definition of adipsia according to psychologists."
-Date: 2023-05-10T06:00:00+00:45
-Image: "/images/posts/definition-of-adipsia-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Adipsia in Psychology"
+description: "Get to know the definition of adipsia according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-adipsia-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

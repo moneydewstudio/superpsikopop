@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Axis in Psychology"
-Description: "Get to know the definition of axis according to psychologists."
-Date: 2023-05-17T06:00:00+00:270
-Image: "/images/posts/definition-of-axis-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Axis in Psychology"
+description: "Get to know the definition of axis according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-axis-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

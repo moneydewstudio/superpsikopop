@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Anodal Tdcs in Psychology"
-Description: "Get to know the definition of anodal tdcs according to psychologists."
-Date: 2023-04-13T06:00:00+00:143
-Image: "/images/posts/definition-of-anodal-tdcs-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Anodal Tdcs in Psychology"
+description: "Get to know the definition of anodal tdcs according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-anodal-tdcs-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

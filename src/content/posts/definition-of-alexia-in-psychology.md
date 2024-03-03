@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Alexia in Psychology"
-Description: "Get to know the definition of alexia according to psychologists."
-Date: 2023-03-23T06:00:00+00:82
-Image: "/images/posts/definition-of-alexia-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Alexia in Psychology"
+description: "Get to know the definition of alexia according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-alexia-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

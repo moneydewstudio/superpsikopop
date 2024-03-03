@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Antecedent Variables in Psychology"
-Description: "Get to know the definition of antecedent variables according to psychologists."
-Date: 2022-10-08T06:00:00+00:154
-Image: "/images/posts/definition-of-antecedent-variables-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Antecedent Variables in Psychology"
+description: "Get to know the definition of antecedent variables according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-antecedent-variables-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

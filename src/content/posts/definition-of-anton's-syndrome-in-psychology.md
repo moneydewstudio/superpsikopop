@@ -1,6 +1,12 @@
 ---
-title: "Definition of Antons syndrome in Psychology"
-date: "2023-09-18"
+title: "Definition of Anton's Syndrome in Psychology"
+description: "Get to know the definition of anton's syndrome according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-altruistic-behaviour-in-psychology.jpg"
+Draft: FALSE
+authors: ["Robi Maulana"]
+Tags:
+Categories: ["Glossary"]
 ---
 
 > The mistaking of visual imagery as visual perception, which occurs in some blind people.
@@ -11,7 +17,7 @@ Antons syndrome is The mistaking of visual imagery as visual perception, which
 
 Sometimes, people who can't see can still experience pictures in their minds. It's like they have a movie playing in their head, even though they can't actually watch it with their eyes. But sometimes, these people might think that the pictures in their mind are actually real and happening in the world around them. They can't tell the difference between what they imagine in their head and what they see with their eyes.
 
- 
+
 
 ## What are the example case of Antons syndrome?
 
@@ -25,7 +31,7 @@ Sometimes, people who can't see can still experience pictures in their minds. It
 
 5\. Carrozzo M, et al. (2020) Painful Anton's Syndrome: a rare presentation of stroke. The Journal of Emergency Medicine. 58(4):557-559. This research highlights a case of Anton's Syndrome with additional unusual symptomatology, including pain, and emphasizes the importance of considering atypical presentations of the syndrome in the clinical setting.
 
- 
+
 
 ## What are other terms related to Antons syndrome?
 
@@ -43,7 +49,7 @@ Sometimes, people who can't see can still experience pictures in their minds. It
 
 8\. Visual field defect: An abnormality or loss of vision within a specific area of the visual field. Anton's syndrome is characterized by a denial or unawareness of visual field defects, leading to confabulation or visual anosognosia.
 
- 
+
 
 ## References for Antons syndrome
 

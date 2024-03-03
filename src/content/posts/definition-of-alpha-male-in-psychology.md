@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Alpha Male in Psychology"
-Description: "Get to know the definition of alpha male according to psychologists."
-Date: 2023-08-03T06:00:00+00:96
-Image: "/images/posts/definition-of-alpha-male-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Alpha Male in Psychology"
+description: "Get to know the definition of alpha male according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-alpha-male-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

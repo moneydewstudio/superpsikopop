@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Artefact Artifact in Psychology"
-Description: "Get to know the definition of artefact artifact according to psychologists."
-Date: 2023-06-04T06:00:00+00:195
-Image: "/images/posts/definition-of-artefact-artifact-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Artefact Artifact in Psychology"
+description: "Get to know the definition of artefact artifact according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-artefact-artifact-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

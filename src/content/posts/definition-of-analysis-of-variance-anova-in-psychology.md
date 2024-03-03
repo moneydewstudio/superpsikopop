@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Analysis of Variance Anova in Psychology"
-Description: "Get to know the definition of analysis of variance anova according to psychologists."
-Date: 2023-06-13T06:00:00+00:123
-Image: "/images/posts/definition-of-analysis-of-variance-anova-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Analysis of Variance Anova in Psychology"
+description: "Get to know the definition of analysis of variance anova according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-analysis-of-variance-anova-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

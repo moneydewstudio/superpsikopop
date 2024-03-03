@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Achievement Motivation in Psychology"
-Description: "Get to know the definition of achievement motivation according to psychologists."
-Date: 2023-05-07T06:00:00+00:18
-Image: "/images/posts/definition-of-achievement-motivation-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Achievement Motivation in Psychology"
+description: "Get to know the definition of achievement motivation according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-achievement-motivation-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

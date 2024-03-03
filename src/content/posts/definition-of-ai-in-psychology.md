@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Ai in Psychology"
-Description: "Get to know the definition of ai according to psychologists."
-Date: 2023-04-28T06:00:00+00:76
-Image: "/images/posts/definition-of-ai-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Ai in Psychology"
+description: "Get to know the definition of ai according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-ai-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

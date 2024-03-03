@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Anonymity in Psychology"
-Description: "Get to know the definition of anonymity according to psychologists."
-Date: 2023-07-02T06:00:00+00:147
-Image: "/images/posts/definition-of-anonymity-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Anonymity in Psychology"
+description: "Get to know the definition of anonymity according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-anonymity-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Autonomous Morality in Psychology"
-Description: "Get to know the definition of autonomous morality according to psychologists."
-Date: 2023-05-07T06:00:00+00:255
-Image: "/images/posts/definition-of-autonomous-morality-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Autonomous Morality in Psychology"
+description: "Get to know the definition of autonomous morality according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-autonomous-morality-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

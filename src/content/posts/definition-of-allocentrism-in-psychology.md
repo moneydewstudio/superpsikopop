@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Allocentrism in Psychology"
-Description: "Get to know the definition of allocentrism according to psychologists."
-Date: 2022-09-07T06:00:00+00:91
-Image: "/images/posts/definition-of-allocentrism-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Allocentrism in Psychology"
+description: "Get to know the definition of allocentrism according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-allocentrism-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

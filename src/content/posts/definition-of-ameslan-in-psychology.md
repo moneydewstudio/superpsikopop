@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Ameslan in Psychology"
-Description: "Get to know the definition of ameslan according to psychologists."
-Date: 2022-10-31T06:00:00+00:109
-Image: "/images/posts/definition-of-ameslan-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Ameslan in Psychology"
+description: "Get to know the definition of ameslan according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-ameslan-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

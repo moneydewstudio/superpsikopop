@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Aneurism in Psychology"
-Description: "Get to know the definition of aneurism according to psychologists."
-Date: 2022-09-29T06:00:00+00:135
-Image: "/images/posts/definition-of-aneurism-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Aneurism in Psychology"
+description: "Get to know the definition of aneurism according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-aneurism-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 

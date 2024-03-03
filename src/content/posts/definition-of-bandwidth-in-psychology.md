@@ -1,13 +1,14 @@
 ---
-Title: "Definition of Bandwidth in Psychology"
-Description: "Get to know the definition of bandwidth according to psychologists."
-Date: 2022-10-16T06:00:00+00:282
-Image: "/images/posts/definition-of-bandwidth-in-psychology.jpg"
-Authors: ["Robi Maulana"]
-Categories: ["Glossary"]
-Tags: 
+title: "Definition of Bandwidth in Psychology"
+description: "Get to know the definition of bandwidth according to psychologists."
+date: 2023-03-07T06:00:00+00:00
+image: "/images/posts/definition-of-bandwidth-in-psychology.jpg"
 Draft: FALSE
+authors: ["Robi Maulana"]
+Tags: 
+Categories: ["Glossary"]
 ---
+
 
 
 
