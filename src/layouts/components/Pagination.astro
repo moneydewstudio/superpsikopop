@@ -5,8 +5,12 @@ const indexPageLink = currentPage === 2;
 const hasPrevPage = currentPage > 1;
 const hasNextPage = totalPages > currentPage;
 
+const maxPagesToShow = 5;
+const startPage = Math.max(1, currentPage - Math.floor(maxPagesToShow / 2));
+const endPage = Math.min(totalPages, startPage + maxPagesToShow - 1);
+
 let pageList = [];
-for (let i = 1; i <= totalPages; i++) {
+for (let i = 1; i <= endPage; i++) {
   pageList.push(i);
 }
 ---
