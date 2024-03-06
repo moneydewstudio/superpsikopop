@@ -15,9 +15,6 @@ Categories: ["Glossary"]
 
 ## What is the definition of according to Psychologists?
 
-is
-
- 
 
 ## What are the example case of ?
 

@@ -8,8 +8,19 @@ import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
 import compress from "astro-compress";
-
 import partytown from "@astrojs/partytown";
+
+// Import the CMS only in the client-side
+if (import.meta.env.SSR === false) {
+  // Dynamic import for client-side code
+  import("decap-cms-app").then((CMSModule) => {
+    const CMS = CMSModule.default;
+
+    // Initialize the CMS and register preview template
+    CMS.init();
+    CMS.registerPreviewTemplate("my-template", MyTemplate);
+  });
+}
 
 // https://astro.build/config
 export default defineConfig({

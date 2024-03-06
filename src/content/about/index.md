@@ -1,7 +1,7 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "What is Psikopop?"
 meta_title: "About"
-image: "/images/author.png"
+image: "/images/authors/robi-maulana.jpg"
 draft: false
 
 what_i_do:
