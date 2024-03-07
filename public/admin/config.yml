@@ -15,7 +15,7 @@ collections:
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Image", name: "image", widget: "image" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
-      - { label: "Author", name: "authors", widget: "select", options: ["Robi Maulana"] }
+      - { label: "Author", name: "authors", widget: "list" }
       - { label: "Categories", name: "category", widget: "select", options: ["Glossary", "Learn Psychology", "Book Reviews", "Other"] }
-      - { label: "Tags", name: "tags", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
